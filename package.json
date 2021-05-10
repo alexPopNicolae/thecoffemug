@@ -2,7 +2,7 @@
   "name": "thecoffemug",
   "description":"Library of reusable react components",
   "author":"Alex Pop",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "keywords": ["react", "components", "ui"],
   "main": "dist/index.js",
@@ -10,7 +10,7 @@
     "files": [ "dist", "README.md" ],
   "repository": {
       "type": "git",
-      "url": "git+https://github.com/jawblia/npm-test.git"
+      "url": "git+https://github.com/alexPopNicolae/thecoffemug"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
